@@ -1,3 +1,6 @@
+#quatro notas escolares bimestrais de um aluno
+#variáveis N1, N2, N3 e N4
+
 n1 = float(input('Favor inserir o valor da nota número 01: '))
 n2 = float(input('Favor inserir o valor da nota número 02: '))
 n3 = float(input('Favor inserir o valor da nota número 03: '))
