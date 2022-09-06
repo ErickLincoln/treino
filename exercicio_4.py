@@ -1,3 +1,5 @@
+#exercício_4. Escreva expressões algébricas Python correspondentes aos seguintes comandos:
+
 print("\n######################\n")
 # (a) A soma dos 5 primeiros inteiros positivos.
 print("___(A)___")

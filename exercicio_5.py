@@ -1,3 +1,7 @@
+#exercício_5. Primeiro, execute a atribuição:
+#palavras = ['taco', 'bola', 'celeiro', 'cesta', 'peteca'] 
+#Agora, escreva duas expressões Python que são avaliadas, respectivamente, como a primeira e a última palavra, na ordem do dicionário. 
+
 print("\n######################\n")
 palavras = ['taco', 'bola', 'celeiro', 'cesta', 'peteca'] #lista criada
 print('Da lista: ',palavras)

@@ -1,3 +1,4 @@
+#exercício_4. Escreva expressões algébricas Python:
 print("\n######################\n")
 #Variação_(4.c) O número de vezes que um número cabe em outro.
 divisor = float(input("Quantas vezes o número: "))

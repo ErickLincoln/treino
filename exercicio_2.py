@@ -1,3 +1,5 @@
+#exercício_2. Realizar a leitura dos valores de quatro notas escolares bimestrais de um aluno. Calcular a média aritmética (variável MD) desse aluno e apresentar a mensagem “Aluno Aprovado com média” se a média obtida for maior ou igual a 5; caso contrário, apresentar a mensagem “Aluno Reprovado com média”. Informar também, após a apresentação das mensagens, o valor da média obtida pelo aluno.
+
 #quatro notas escolares bimestrais de um aluno
 #variáveis N1, N2, N3 e N4
 
